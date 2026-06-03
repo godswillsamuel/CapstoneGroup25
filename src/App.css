@@ -1,0 +1,9 @@
+.app {
+  min-height: 100vh;
+}
+
+.app__dark {
+  background: var(--navy);
+  position: relative;
+  overflow: hidden;
+}
