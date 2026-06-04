@@ -1,5 +1,5 @@
 import React from "react";
-import video from "../assets/planet:video.mp4";
+import video from "../assets/Planet-video.mp4";
 import "./VideoSection.css";
 
 const VideoSection = () => {
