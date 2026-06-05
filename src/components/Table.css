@@ -1,0 +1,105 @@
+.table-section {
+    width: 100%;
+    background: var(--white);
+    font-family: var(--font-family);
+    padding: 80px 100px;
+  }
+  
+  .TableHead {
+    color: var(--heading-color);
+  }
+  
+  .Table {
+    border-radius: 10px;
+    overflow: hidden;
+    border-spacing: 0;
+    border-collapse: separate;
+  }
+  
+  .ColGroup {
+    background: #D1E3FF;
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: -2%;
+  }
+  
+  .TableHead > p {
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 45px;
+  }
+  
+  .TableHead h2 {
+    font-size: 32px;
+    font-weight: 600;
+    color: var(--heading-color);
+    text-align: left;
+    line-height: 150%;
+    letter-spacing: -2%;
+  }
+  
+  table > caption {
+    color: #0F2A44;
+    text-align: left;
+    margin-bottom: 24px;
+    font-weight: bold;
+    letter-spacing: -2%;
+  }
+  
+  .TableData {
+    color: #212121;
+    letter-spacing: -2%;
+    font-weight: 500px;
+    font-size: medium;
+  }
+  
+  th {
+    background: #164BAF;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  td {
+    border: 2px solid var(--white-gray);
+    padding: 12px;
+    text-align: center;
+    letter-spacing: -2%;
+    background: white;
+  }
+  
+  td.ColGroup {
+    background: #D1E3FF;
+  }
+  
+  th:first-child {
+    border-top-left-radius: 12px;
+  }
+  
+  th:last-child {
+    border-top-right-radius: 12px;
+  }
+  
+  tr:last-child td:first-child {
+    border-bottom-left-radius: 12px;
+  }
+  
+  tr:last-child td:last-child {
+    border-bottom-right-radius: 12px;
+  }
+  
+  @media (max-width: 1080px) {
+    .table-section {
+      padding: 40px 20px;
+      overflow-x: auto;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .table-section {
+      padding: 20px 10px;
+      overflow-x: auto;
+    }
+  }
