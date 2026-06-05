@@ -1,6 +1,6 @@
 import Navbar from "./components/Navbar";
 import HeroSection from "./components/HeroSection";
-import VideoSection from "./components/videoSection";
+import VideoSection from "./components/VideoSection";
 function App() {
   return (
     <div>
