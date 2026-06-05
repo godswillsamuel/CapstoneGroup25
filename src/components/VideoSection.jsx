@@ -6,7 +6,7 @@ const VideoSection = () => {
   return (
     <div className="video-section">
       <div className="video">
-        <img src={video} alt="planetary data video thumbnail" />
+        <img src={video} alt="planetary data video thumbnail" type="video/mp4" />
       </div>
       <div className="text">
         <h3>How Planetary Data Helps Us Understand Space</h3>
