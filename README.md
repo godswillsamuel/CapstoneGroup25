@@ -47,8 +47,8 @@ The project demonstrates proficiency in:
 | Name | Github Profile |
 |--------|--------|
 | Godswill Samuel | https://github.com/godswillsamuel |
-| Abdulqudus Nurudeen | https://github.com/Abdulqudusnurudeen@gmail.com |
-| Abayomi | https://github.com/aymajesty12-spec |
+| Abdulqudus Nurudeen | https://github.com/Abdulqudus10 |
+| Ayobami | https://github.com/aymajesty12-spec |
 
 
 ## How to run Locally
