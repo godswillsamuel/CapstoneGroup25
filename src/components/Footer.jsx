@@ -9,18 +9,18 @@ const Footer = () => {
           <div className="footer-about">
             <h4>We are a team passionate about planetary science and data analysis.</h4>
             <p style={{ fontSize: "18px", color: "#cec8c8", marginTop: "10px" }}>
-              <strong>Team:</strong> Godswill, Ayobami, Qudus.
+              <strong>Team:</strong> Godswill, Ayobami, AbdulQudus.
             </p>
           </div>
                 <div style={{ borderTop: "1px solid rgba(255, 255, 255, 0.15)", margin: "5px " }}></div>
         </div>
 
         <div className="footer-bottom">
-          <p>© 2026 Design by Godswill, Qudus & Ayobami</p>
+          <p>© 2026 Design by Godswill, AbdulQudus & Ayobami</p>
           <p>
                 Built by{" "}
                 <a 
-                  href="https://github.com/godswillsamuel/Capstone25" 
+                  href="https://github.com/godswillsamuel/CapstoneGroup25.git" 
                   target="_blank" 
                   rel="noreferrer" 
                   style={{ color: "#60a5fa", textDecoration: "underline" }}
