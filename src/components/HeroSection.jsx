@@ -3,6 +3,23 @@ import world from "../assets/world.png";
 import "./HeroSection.css";
 
 const HeroSection = () => {
+    const handleScroll = () => {
+    const planetSection = document.getElementById("planet-data"); 
+    planetSection?.scrollIntoView({ 
+      behavior: "smooth",
+      block: "start"
+    });
+  };
+
+  const handleScrolll = () => {
+  const FormSection = document.getElementById("Form-section" );
+  FormSection?.scrollIntoView({ 
+      behavior: "smooth",
+      block: "start"
+    });
+  };
+
+
   return (
     <div>
       {/* Hero-content */}
@@ -17,8 +34,8 @@ const HeroSection = () => {
           </p>
           {/* hero-button */}
           <div className="hero-button">
-            <button>Explore the Data</button>
-            <button>Contact Us</button>
+            <button onClick={handleScroll}>Explore the Data</button>
+            <button onClick={handleScrolll}>Contact Us</button>
           </div>
         </div>
         {/* hero-image */}
