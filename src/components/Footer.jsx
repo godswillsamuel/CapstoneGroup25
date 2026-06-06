@@ -7,9 +7,8 @@ const Footer = () => {
       <div className="footer-container">
         <div className="footer-top">
           <div className="footer-about">
-            <h4>We are a team passionate about planetary science and data analysis. 
-              Our team members include Godswill, Ayobami, AbdulQudus and our collaborative contributors working on innovative projects.</h4>
-            <p style={{ fontSize: "15px", color: "#cec8c8", marginTop: "10px" }}>
+            <h4>We are a team passionate about planetary science and data analysis.</h4>
+            <p style={{ fontSize: "18px", color: "#cec8c8", marginTop: "10px" }}>
               <strong>Team:</strong> Godswill, Ayobami, Muhammad, francis, isreal
             </p>
           </div>
@@ -17,7 +16,7 @@ const Footer = () => {
         </div>
 
         <div className="footer-bottom">
-          <p>© 2026 Design by Godswill & AbdulQudus</p>
+          <p>© 2026 Design by Godswill, Qudus & Ayobami</p>
           <p>
                 Built by{" "}
                 <a 
