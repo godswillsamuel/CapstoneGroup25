@@ -17,6 +17,10 @@
     border-collapse: separate;
   }
   
+  .TableMain {
+    width: 100%;
+  }
+  
   .ColGroup {
     background: #D1E3FF;
     font-family: var(--font-family);
