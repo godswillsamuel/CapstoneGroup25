@@ -38,8 +38,8 @@ The project demonstrates proficiency in:
 
 | Name | Role |
 |--------|--------|
-| Godswill Samuel | Project Coordination/API Intergration | Team Lead |
-| Abdulqudus Nurudeen | Planet/Video/Table Section Development |Asst. Team Lead |
+| Godswill (Team Lead) | Project Coordination/API Intergration |
+| Abdulqudus | Planet/Video/Table Section Development |Asst. Team Lead |
 | Abayomi | Form/Footer Section Development |
 
 ---
