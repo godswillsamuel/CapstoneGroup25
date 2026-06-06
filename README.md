@@ -40,7 +40,7 @@ The project demonstrates proficiency in:
 |--------|--------|
 | Godswill (Team Lead) | Project Coordination/API Intergration |
 | Abdulqudus | Planet/Video/Table Section Development |Asst. Team Lead |
-| Abayomi | Form/Footer Section Development |
+| Ayobami | Form/Footer Section Development |
 
 ---
 
