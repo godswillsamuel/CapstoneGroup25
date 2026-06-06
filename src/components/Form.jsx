@@ -37,7 +37,7 @@ const Form = () => {
     setStatus("loading");
 
     try {
-      const response = await fetch(""https://whitebricks.com/tsacademy.php/submit", {
+      const response = await fetch("https://whitebricks.com/tsacademy.php/submit", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
