@@ -95,16 +95,14 @@
     border-bottom-right-radius: 12px;
   }
   
-  @media (max-width: 1080px) {
-    .table-section {
-      padding: 40px 20px;
-      overflow-x: auto;
+@media (max-width: 768px) {
+    .table-section{ 
+        display: none;
     }
-  }
-  
-  @media (max-width: 480px) {
-    .table-section {
-      padding: 20px 10px;
-      overflow-x: auto;
+}
+ 
+@media (max-width: 480px) {
+    .table-section{ 
+        display: none;
     }
-  }
+}
