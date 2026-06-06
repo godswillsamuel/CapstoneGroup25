@@ -3,6 +3,7 @@ import HeroSection from "./components/HeroSection";
 import VideoSection from "./components/VideoSection";
 import Planet from "./components/Planet";
 import Table from "./components/Table";
+import Form from "./components/Form";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <VideoSection />
       <Planet />
       <Table />
+      <Form />
     </div>
   );
 }
